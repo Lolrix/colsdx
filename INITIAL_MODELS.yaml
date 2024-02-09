@@ -39,7 +39,7 @@ sdxl/vae/sdxl-1-0-vae-fix:
 sd-1/main/Analog-Diffusion:
    description: An SD-1.5 model trained on diverse analog photographs (2.13 GB)
    repo_id: wavymulder/Analog-Diffusion
-   recommended: True
+   recommended: False
 
 sd-1/main/Deliberate:
    description: Versatile model that produces detailed images up to 768px (4.27 GB)
